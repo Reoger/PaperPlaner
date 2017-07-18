@@ -34,3 +34,9 @@
 * compile 'com.android.support:support-v4:25.3.0'
 * compile 'com.android.support.constraint:constraint-layout:1.0.2'
 
+主要用到的技术：
+* greenDao数据库操作
+* rxjava和RxAndroid的异步处理
+* retrofit2网络请求
+* Material Design 设计
+* mvp框架
