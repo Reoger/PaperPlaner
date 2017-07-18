@@ -24,8 +24,7 @@
         android:shortcutShortLabel="@string/feel_lucky_short"
         android:shortcutLongLabel="@string/feel_lucky">
 
-        <!--set a custom intent action string as a unique id
-       which activity can point out which fragment to launch-->
+      
         <intent
             android:action="com.marktony.zhihudaily.homepage"
             android:targetPackage="com.marktony.zhihudaily"
