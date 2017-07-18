@@ -3,7 +3,9 @@
 
 基于开源项目纸飞机<https://github.com/TonnyL/PaperPlane>实现。
 效果图：
-![效果图](image/show.pdf)
+![](image/show/幻灯片1.PNG)
+![](image/show/幻灯片2.PNG)
+![](image/show/幻灯片3.PNG)
 主要实现功能：
 * 查看知乎日报，果壳日报，豆瓣新闻和android日报。
 * 修改主题
